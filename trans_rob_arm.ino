@@ -1,8 +1,8 @@
 #include <ESP8266WiFi.h>
 #include <WiFiUdp.h>
 
-const char* ssid = "HG76";           // WiFi Name
-const char* password = "??????76";   // WiFi Password
+const char* ssid = " ";           // WiFi Name
+const char* password = " ";   // WiFi Password
 const char* receiverIP = "192.168.4.1"; // Receiver IP address
 
 WiFiUDP udp;
