@@ -3,7 +3,7 @@
 
 const char* ssid = " ";           // WiFi Name
 const char* password = " ";   // WiFi Password
-const char* receiverIP = "192.168.4.1"; // Receiver IP address
+const char* receiverIP = "  "; // Receiver IP address
 
 WiFiUDP udp;
 
