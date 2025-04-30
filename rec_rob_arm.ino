@@ -2,8 +2,8 @@
 #include <WiFiUdp.h>
 #include <Servo.h>
 
-const char* ssid = "HG76";
-const char* password = "??????76";
+const char* ssid = " ";   // give ur wifi name
+const char* password = "  ";  // wifi password
 
 WiFiUDP udp;
 unsigned int localUdpPort = 4210;
